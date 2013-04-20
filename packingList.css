@@ -1,0 +1,51 @@
+/**
+ * Visual Frame Works
+ * Web App Part 2 CSS
+ * 1304
+ * Louise Whitney
+**/
+
+body {
+	background: green;
+	border: #ffffff;
+	overflow: scroll;
+}	
+
+h1{
+	font-family: "Bookman Old Style"; 
+	font-style: italic;
+	font-weight: 600;
+	font-variant: small-caps;
+	color: white;
+}
+
+p{
+	font-variant: small-caps;
+	font-size: 18px;
+	color: #ffffff;
+}
+
+legend{
+	font-variant: small-caps;
+	font-size: 22px;
+	text-align: center;
+	color: #ffffff;
+}
+
+label{
+	font-size: 14px;
+	color: White;
+
+}
+
+fieldset{
+	color: white;
+	font-size: 12px;
+
+}
+
+textarea{
+	font-variant: small-caps;
+	color: #000000;
+}
+
